@@ -1,53 +1,53 @@
 <p align="center">
-  <img src="assets/icon.png" width="120" alt="Cute Todo ikonu" />
+  <img src="assets/icon.png" width="120" alt="Cute ToDo icon" />
 </p>
 
-<h1 align="center">Cute Todo 💖</h1>
+<h1 align="center">Cute ToDo 💖</h1>
 
 <p align="center">
-  El çizimi görünümlü, tatlış bir defter tarzı yapılacaklar listesi.<br/>
-  Windows için hafif bir masaüstü uygulaması.
-</p>
-
-<p align="center">
-  <a href="../../releases/latest"><b>⬇️ Son sürümü indir</b></a>
+  A cute, notebook-style to-do list with a hand-drawn look.<br/>
+  A lightweight desktop app for Windows.
 </p>
 
 <p align="center">
-  <img src="assets/screenshot.png" width="380" alt="Uygulama ekran görüntüsü" />
+  <a href="../../releases/latest"><b>⬇️ Download the latest version</b></a>
 </p>
 
-## ✨ Özellikler
+<p align="center">
+  <img src="assets/screenshot.png" width="380" alt="App screenshot" />
+</p>
 
-- 📝 Görev ekleme, düzenleme (çift tıkla) ve silme
-- 💗 Kalp şeklinde onay kutuları
-- 🔊 Her etkileşime tatlış ses efektleri (açılıp kapatılabilir)
-- 📅 Tarih alanı
-- 🔢 Tamamlanan görev sayacı ve "bitenleri temizle"
-- 💾 Görevler otomatik kaydedilir
-- 🌐 İnternet bağlantısı gerektirmez
-- 🎨 Tüm görseller el çizimi tarzında
-- 🪶 Çok hafif: kurulum dosyası yalnızca birkaç MB
+## ✨ Features
 
-## 📦 Kurulum
+- 📝 Add, edit (double-click) and delete tasks
+- 💗 Heart-shaped checkboxes
+- 🔊 Cute sound effects for every action (can be muted)
+- 📅 Date field
+- 🔢 Completed task counter and "clear finished" button
+- 💾 Tasks are saved automatically
+- 🌐 Works fully offline
+- 🎨 All visuals in a hand-drawn style
+- 🪶 Very lightweight: the installer is only about 2 MB
 
-1. [Releases](../../releases/latest) sayfasından `Cute Todo_x.x.x_x64-setup.exe` dosyasını indir.
-2. Çalıştır ve kurulumu tamamla.
-3. Başlat menüsünden **Cute Todo**'yu aç.
+## 📦 Installation
 
-> Kurulum yapmak istemiyorsan `Cute.Todo.portable.exe` dosyasını indirip doğrudan çalıştırabilirsin.
+1. Download `Cute.Todo_x.x.x_x64-setup.exe` from the [Releases](../../releases/latest) page.
+2. Run it and complete the setup.
+3. Open **Cute Todo** from the Start menu.
 
-> Windows SmartScreen "tanınmayan uygulama" uyarısı verirse **Ek bilgi → Yine de çalıştır** seçeneğine tıkla. Uygulama dijital olarak imzalanmadığı için bu uyarı normaldir.
+> Don't want to install anything? Download `Cute.Todo.portable.exe` and run it directly.
 
-## 🛠️ Kullanılan teknolojiler
+> If Windows SmartScreen shows an "unrecognized app" warning, click **More info → Run anyway**. This is normal because the app is not digitally signed.
+
+## 🛠️ Built with
 
 - [Tauri 2](https://tauri.app/) (Rust)
 - HTML, CSS, JavaScript
 
-## © Lisans
+## © License
 
-Bu uygulama açık kaynak değildir. Kaynak kodu gizlidir; tüm hakları saklıdır.
-Uygulamayı kişisel kullanım için ücretsiz indirip kullanabilirsin.
+This app is not open source. The source code is private and all rights are reserved.
+You are free to download and use the app for personal use.
 
 ---
 
