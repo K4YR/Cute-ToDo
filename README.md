@@ -1,4 +1,3 @@
-# Cute-ToDo
 <p align="center">
   <img src="assets/icon.png" width="120" alt="Cute ToDo icon" />
 </p>
@@ -6,7 +5,7 @@
 <h1 align="center">Cute ToDo 💖</h1>
 
 <p align="center">
-  <a href="#-english">🇬🇧 English</a> · <a href="#-türkçe">🇹🇷 Türkçe</a>
+  <a href="#english">English</a> · <a href="#türkçe">Türkçe</a>
 </p>
 
 <p align="center">
@@ -19,7 +18,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 A cute, notebook-style to-do list with a hand-drawn look. A lightweight desktop app for Windows.
 
@@ -52,7 +51,7 @@ You are free to download and use the app for personal use.
 
 ---
 
-## 🇹🇷 Türkçe
+## Türkçe
 
 El çizimi görünümlü, tatlış bir defter tarzı yapılacaklar listesi. Windows için hafif bir masaüstü uygulaması.
 
